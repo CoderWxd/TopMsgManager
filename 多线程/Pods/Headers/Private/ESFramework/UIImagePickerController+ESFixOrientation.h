@@ -1,1 +1,0 @@
-../../../ESFramework/ESFramework/Core/Additions/UIImagePickerController+ESFixOrientation.h
